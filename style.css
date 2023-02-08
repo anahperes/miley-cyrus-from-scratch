@@ -1,0 +1,251 @@
+/* miley cyrus' webpage styling */
+
+html {
+    background-image: url('/Users/anahperes/Documents/Coding/Rocketseat/Discover/Testes aleatorios/Assets/bg01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+}
+
+/* textos */
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 104px;
+    margin-left: 16%;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 64px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 28.79px;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 28.79px;
+}
+
+h6 {
+    font-weight: 400;
+    font-size: 16px;
+    margin: 10px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 12.8px;
+    width: 330px;
+    text-align: center;
+}
+
+/* navbar items*/
+li {
+    font-weight: 400;
+    color: white;
+    display: inline-block;
+}
+
+/* "miley cyrus" */
+#navbar_items1 {
+    font-size: 30px;
+}
+
+/* "music" "shop" */
+#navbar_items2, #navbar_items3 {
+    font-size: 25px;
+    margin: auto 10px;
+}
+
+/* header = album cover + album title + announcement + buttons + agreement text */
+.header {
+    box-sizing: border-box;
+    padding-left: 25%;
+    margin-bottom: 85px;
+}
+
+/* header_title = album cover + album title */
+.header_title {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* all buttons styling */
+button {
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    border: 1px solid white;
+    padding: 10px;
+    background-color: transparent;
+}
+
+/* hover styling for all buttons */
+.button:hover {
+    color: black;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+/* links = navbar + buttons */
+.a {
+    text-decoration-line: none;
+    font-size: 50px;
+}
+
+/* album cover on header */
+#cover {
+    margin-right: 95px;
+}
+
+/* line 01 of announcement: "the album" */
+#announcement1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+/* line 02 of announcement: "march 10" */
+#announcement2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+/* buttons on header */
+#button1 {
+    width: 330px;
+    margin: 10px;
+    display: block;
+}
+
+/* cta vinyl = set of vinyl covers + button */
+.cta_vinyl {
+    display: inline-block;
+    margin-left: 30%;
+}
+
+/* "pre-order vinyl" */
+#button2 {
+    width: 300px;
+    margin: 10px 42%;
+    display: block;
+}
+
+/* "get a postcard from miley" */
+#button4 {
+    width: 300px;
+    display: block;
+    margin-top: -50px;
+    margin-left: 12%;
+}
+
+/* video buttons */
+#button3 {
+    width: 300px;
+    margin: 10px 22%;
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+/* videos = video title "flowers" + "out now" + images + buttons of videos */
+.videos {
+    margin-left: 28%;
+}
+
+/* "out now" below "flowers" */
+#out_now {
+    margin-left: 26%;
+    margin-top: -70px;
+    margin-bottom: 20px;
+}
+
+/* postcards_love = postcard and "love from la" + button separetely */
+.postcards_love {
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto 35px;
+}
+
+/* postcards = postcard + "love from la" + button */
+.postcards {
+    padding-left: 28%;
+    margin: 70px auto;
+}
+
+/* contact number */
+.contact {
+    text-align: center;
+}
+
+/* contact details "txt mc" */
+#contact_details1 {
+    margin-bottom: 5px;
+}
+
+/* contact details number */
+#contact_details2 {
+    margin-top: 5px;
+}
+
+/* social media */
+.social_media {
+    text-align: center;
+}
+
+/* social media icons */
+.icons {
+    margin: auto 5px;
+}
+
+/* mailing */
+.mailing_signup {
+    text-align: center;
+    caret-color: white;
+}
+/* "caret-color" sets the color of the typing bar */
+
+#mailing1, #mailing2, #mailing3 {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    margin: 5px 10px;
+}
+
+/* sign up button */
+#button5 {
+    width: 150px;
+    margin: 15px 22% 80px;
+    text-align: center;
+}
+
+/* all items from footer */
+.footer {
+    text-align: center;
+    background-color: rgb(22,37,50);
+    padding: 10px;
+}
+
+/* solo items of footer */
+.rodape {
+    display: inline-block;
+    text-decoration-line: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    margin-top: 0px;
+}
