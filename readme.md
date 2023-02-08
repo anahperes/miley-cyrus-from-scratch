@@ -23,7 +23,7 @@ This is how I did this:
 	- margins;
 	- paddings;
 	- text colors;
-- Finally, searched for deeper knowledge on text alignment and decoration, vertical alignment of elements, display, buttons (different behaviour on hovering and \'91onclick\'92), <select> (how to use it and copied a code containing a list of all countries) and also found out that I probably should know how to use scripts and other languages to be doing this.
+- Finally, searched for deeper knowledge on text alignment and decoration, vertical alignment of elements, display, buttons (different behaviour on hovering and "onclick", &lt;select&gt; (how to use it and copied a code containing a list of all countries) and also found out that I probably should know how to use scripts and other languages to be doing this.
 
 Maybe I can try again once I finish the course.
 
