@@ -28,3 +28,5 @@ This is how I did this:
 Maybe I can try again once I finish the course.
 
 ps.: It's not responsive. No sneak peek on the original code.
+
+Check out her website to compare: https://mileycyrus.com
