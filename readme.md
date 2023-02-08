@@ -10,9 +10,9 @@ This is how I did this:
 - Firstly, I created html file with things I've seen on the course:
 	- meta info;
 	- lists;
-	- <a>;
-	- <img>;
-	- <link>;
+	- &lt;a&gt;;
+	- &lt;img&gt;;
+	- &lt;link&gt;;
 	- class;
 	- id;
 	- width;
